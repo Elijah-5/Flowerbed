@@ -78,6 +78,6 @@ npm run preview
 
 ## Notes
 
-- This project is a critical design/speculative design work, not an endorsement of drug trade or exploitative platform systems.
+- This project is a critical design/speculative design work for computation and design senior seminar course @ DKU, not an endorsement of drug trade or exploitative platform systems.
 - The interface intentionally mimics persuasive and extractive digital marketplaces in order to critique them.
 - The current implementation focuses on the frontend simulation and narrative presentation rather than backend realism.
